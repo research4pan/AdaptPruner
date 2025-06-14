@@ -80,7 +80,7 @@ This project is built on top of [LLM-Pruner](https://github.com/horseee/LLM-Prun
 ```
 @article{boyao-adappruner,
   title={Adapt-Pruner: Adaptive Structural Pruning for Efficient Small Language Model Training}, 
-  author={Boyao Wang and Rui Pan and Shizhe Diao and Xingyuan Pan and Jipeng Zhang and Renjie Pi and Tong Zhang},
+  author={Rui Pan and Boyao Wang and Shizhe Diao and Xingyuan Pan and Jipeng Zhang and Renjie Pi and Tong Zhang},
   year={2025},
   journal={arXiv preprint arXiv:2502.03460}
 }
